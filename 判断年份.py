@@ -12,4 +12,4 @@ while True:
     else:
         print(year, "是平年")
     break
-这是一个控制台上的用来判断是否为平年或闰年的Python程序。
+# 这是一个控制台上的用来判断是否为平年或闰年的Python程序。
